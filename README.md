@@ -13,6 +13,8 @@ Also, to uninstall the browser, simply right-click "Uninstall Zen Browser" in th
 Using pyinstaller, you can create a binary containing the program and its necessary resources.
 
 ## Steps to compile a portable installer:
+It requires the "BeautifulSoup" library to run. You can use the program directly with Python without compiling it, or you can compile it yourself if you wish:
+pip install beautifulsoup4
 
 # Generate .ts files
 pylupdate5 zen-browser-start -ts resources/zn_en.ts resources/zn_pt.ts
