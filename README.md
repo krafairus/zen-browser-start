@@ -33,3 +33,7 @@ for your user folder
 
 or from, replacing "user" with the name of your user folder
 /home/user/.local/share/zenbrowserstart/zen-browser-start --uninstallzenbrowser
+
+# UI uninstall:
+![imagen](https://github.com/user-attachments/assets/b97bf332-c2af-4273-afd2-2989a7d3548c)
+
