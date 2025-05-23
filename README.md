@@ -3,7 +3,7 @@ This is a program written in Python that allows you to manage the Zen Browser Ap
 
 https://github.com/user-attachments/assets/cacddfe3-50ce-4eee-bdc4-ec14c0a44f69
 
-You can use the Python3 zen-browser-start command after cloning the repository into the cloned folder, or you can use the pre-compiled binary at https://github.com/krafairus/zen-browser-installer/releases.
+You can use the "python3 zen-browser-start" command after cloning the repository into the cloned folder, or you can use the pre-compiled binary at https://github.com/krafairus/zen-browser-installer/releases.
 
 WARNING!
 This program is not affiliated with the [Zen Team](https://zen-browser.app/about/), nor do we own the logos or trademarks used for this program. All rights belong to their respective owners. It works, but it has a problem loading translations. Since I'm the creator, I speak Spanish, so I didn't see a problem leaving it like that. However, I'll fix it when I have time, as it seems to be a simple problem.
