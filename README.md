@@ -1,4 +1,4 @@
-# zen-browser-installer
+# Zen Browser Start (Zen Browser Installer AppImage)
 This is a program written in Python that allows you to manage the Zen Browser AppImage through a graphical interface and with Linux desktop integration. (Supports Gnome, KDE Plasma, etc.)
 
 https://github.com/user-attachments/assets/cacddfe3-50ce-4eee-bdc4-ec14c0a44f69
