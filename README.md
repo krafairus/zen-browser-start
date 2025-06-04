@@ -1,3 +1,9 @@
+A program created entirely (or mostly) with AI, I'm archiving it because I don't see the point of it, and realistically, I want to dedicate my time to other things I really like. I'm not a programmer, or not one who really knows Python or any other language used in this program. I'm sorry for pretending to be one. Sorry, it's a curious project that demonstrates the capabilities of current AI but also a pure example of its limits.
+
+I tried to do my best, but AI is very limiting, and I don't think it's really a replacement for programmers.
+
+Forever a GNU/Linux user ♥️.
+
 # Zen Browser Start (Zen Browser Installer AppImage)
 This program, written in Python, allows you to manage the Zen Browser AppImage through a graphical interface and integrates with the Linux desktop. (Compatible with Gnome, KDE Plasma, etc.)
 
