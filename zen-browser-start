@@ -222,7 +222,7 @@ class InstallerWorker(QThread):
             raise Exception(self.tr("Error al obtener versión instalada: {0}").format(str(e)))
         finally:
             if os.path.exists(temp_dir):
-                subprocess.run(["rm", "-rf", temp_dir, "&&", "rm", "-rf", "AppDir"])
+                subprocess.run(["rm", "-rf", temp_dir, "&&", "rm", "-rf", "~/AppDir"])
 
     def get_latest_version(self):
         try:
