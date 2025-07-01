@@ -1,3 +1,5 @@
+AI (used)
+
 Forever a GNU/Linux user ♥️.
 
 # Zen Browser Start (Zen Browser Installer AppImage)
