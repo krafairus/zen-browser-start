@@ -26,7 +26,7 @@ It requires the "BeautifulSoup" library to run. You can use the program directly
 pip install beautifulsoup4
 
 # Generate .ts files
-pylupdate5 zen-browser-start -ts resources/zn_en.ts resources/zn_pt.ts
+pyside6-lupdate zen-browser-start -ts resources/zn_en.ts resources/zn_pt.ts
 
 # Edit translations with Qt Linguist (do it manually)
 linguist resources/zn_en.ts resources/zn_pt.ts
@@ -35,7 +35,7 @@ linguist resources/zn_en.ts resources/zn_pt.ts
 release resources/zn_*.ts
 
 # Compile the program into a binary using pyinstaller (pip install pyinstaller)
-pyinstaller --onefile --windowed --add-data "resources/logo.png:resources" --add-data "resources/zn_en.qm:resources" --add-data "resources/zn_pt.qm:resources" --icon=resources/logo.png zen-browser-start
+pyinstaller zen-browser-start.spec --clean
 
 ## Uninstall all
 Open your terminal and enter:
